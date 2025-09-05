@@ -5,7 +5,8 @@ We proposes a computational model for circRNA-disease association prediction bas
 
 
 ## Description 
-* The code "TopoLa.m" is part of the TopoLa framework, implemented using MATLAB. To run this code, you need to have MATLAB installed, with no specific version requirement.
+* NOTE: Please ensure you have MATLAB installed to run this code. Any recent version should work.
+
 * The “Classification” folder contains the code for the classifiers used by ES-NMGCDA.
 * The "DataSet” folder contains the data sets used by ES-NMGCDA.
 * The “Others” folder contains the code for some of the functions used to run the program.
@@ -24,7 +25,7 @@ The ES-NMGCDA Project has been run successfully on Operating systems:
 * Windows 10
 
 ## How to use `ES-NMGCDA`
-You can run the .m files for steps 1-6 file in order on matlab2022b.
+You can run the .m files for steps 1-6 file in order on matlab.
 
 # Issues
 We warmly welcome all feedback, bug reports, and suggestions! When raising issues, please ensure they include a detailed and reproducible example for easier troubleshooting.
